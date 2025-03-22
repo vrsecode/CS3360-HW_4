@@ -13,7 +13,7 @@ The simulation was executed with arrival rates ranging from **10 to 30 processes
 
 The simulator was compiled and executed using the following commands:  
 
-g++ main.cpp
+g++ main.cpp\n
 ./a.out
 
 ## 3. Results and Analysis  
